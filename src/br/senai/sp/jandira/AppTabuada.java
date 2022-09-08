@@ -15,8 +15,9 @@ public class AppTabuada {
 		tela.altura = 600;
 		tela.largura = 600;
 		tela.corDeFundoDaTela = new Color(44, 185, 204);
-		tela.fonteDosLabels = new Font("Calibri", Font.BOLD, 15);
-		tela.corDoBotao = new Color (140, 240, 250);
+		tela.fonteDosLabels = new Font("Inter", Font.BOLD, 15);
+		tela.corDoBotao = new Color (106, 253, 81);
+		tela.corDoBotao2 = new Color (255, 45, 50);
 //		tela.corDeTextoDoBotao = new Color(0, 0, 0);
 		tela.criarTela();
 		
